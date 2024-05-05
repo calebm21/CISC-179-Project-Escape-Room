@@ -14,7 +14,7 @@ def choices():  # Lists the possible actions that the user can take
           'H: Inspect the picture frame\n'  # Hint: The bird is a symbol
           'I: Check the pizza box\n'  # Decoy
           'J: Search the unopened box\n'  # Hint: Knife holds a key word
-          'K: Try to unlock the door\n')  # Password: WAR CHAOS PEACE
+          'K: Try to unlock the door\n')  # Passwords: WAR, CHAOS, PEACE
 
 
 char_name = input('Enter character name here: ')
