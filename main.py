@@ -136,7 +136,7 @@ while correct_door_code is False:  # Loop will run until all 3 passwords are ent
             choices()
             choice = str(input('Enter choice here: '))
 
-    else:  # Corrector if any value besides one in the range of A and K is entered
+    else:  # Prompt if any value besides one in the range of A and K is entered
         print('\nPlease try again. Select a letter between A and K.\n')
         choice = str(input('Enter choice here: '))
 
