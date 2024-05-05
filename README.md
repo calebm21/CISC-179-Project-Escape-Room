@@ -9,4 +9,6 @@ Each choice contains either nothing, a hint, or a keyword.
 To escape, the "door" requires 3 passwords. 
 If even one password is wrong, the "locks" reset and the user must choose an option again.
 
+The program essentially runs on a while loop that lasts until the "door" is unlocked.
+
 Implemented course concepts: input/interaction, if/else statements, while loops, nested loops, functions
